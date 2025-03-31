@@ -1,1 +1,10 @@
 services:
+  node:
+    image: node:latest
+    container_name: node_container
+    volumes:
+      - ./:/app
+    tty: true
+    working_dir: /app
+    # ports:
+    # - 3000:3000

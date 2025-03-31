@@ -1,8 +1,12 @@
-# docker-template
+# docker-template Node.js
 
 This repository serves docker environments for various applications developing using Docker.  
 The main branch provides a base, and different branches store different development environment starter kits.  
 It's for my personal use, but whoever can use, change, redistribute.
+
+## Environment
+
+The container running Node.js (latest)
 
 ## Usage
 
