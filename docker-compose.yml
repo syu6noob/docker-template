@@ -1,1 +1,8 @@
 services:
+  python3:
+    build: .
+    container_name: python3_container
+    working_dir: /app
+    tty: true
+    volumes:
+      - ./:/app

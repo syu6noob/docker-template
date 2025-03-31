@@ -1,8 +1,12 @@
-# docker-template
+# docker-template Python 3 (latest)
 
 This repository serves docker environments for various applications developing using Docker.  
 The main branch provides a base, and different branches store different development environment starter kits.  
 It's for my personal use, but whoever can use, change, redistribute.
+
+## Environment
+
+The container running Python 3 (latest)
 
 ## Usage
 
